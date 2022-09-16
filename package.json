@@ -29,7 +29,7 @@
     "@ngui/auto-complete": "^0.13.4",
     "auth0-js": "9.3.0",
     "body-parser": "^1.18.2",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "core-js": "^2.4.1",
     "express": "^4.16.3",
     "font-awesome": "^4.7.0",
